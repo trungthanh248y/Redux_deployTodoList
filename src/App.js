@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import TastForm from './components/TaskForm';
 import TaskControl from './components/TaskControl';
 import TaskList from './components/TaskList';
+// import Demo from './trainning/FileDemoChinh/index';
 import './App.css';
 
 class App extends Component {
